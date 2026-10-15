@@ -1,0 +1,17 @@
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 编辑器配置
+.vscode/
+
+# 数据集与模型权重
+data/
+checkpoints/
+*.pth
+*.pt
+
+# 环境与密钥
+.venv/
+venv/
+.env
